@@ -1,4 +1,4 @@
-Hi, I’m @JodyWinter, a senior technical writer from Auckland, New Zealand. My first and only language is English. I'm learning how to document REST APIs. If you need help with documenting yours, please get in touch.
+Hi, I’m @JodyWinter, a senior technical writer from Auckland, New Zealand. My first and only language is English. I'm learning how to document REST APIs. If you need help to document yours, please get in touch.
 
 <!---
 JodyWinter/JodyWinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
